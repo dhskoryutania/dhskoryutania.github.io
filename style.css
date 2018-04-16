@@ -1,16 +1,16 @@
 <link rel="stylesheet" href="style.css" /> 
 h1{
-  font-family: verdana;
-  color:blue;
+  font-family: courier;
+  color:pink;
 }
 
  h2{
-  font-family: verdana;
-  color:blue;
+  font-family: courier;
+  color:pink;
 }
 
 p{
- font-family: verdana;
+ font-family: courier;
 }
 
 body {
